@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LczCards_Example' do
+  pod 'LczCards', :path => '../'
+
+  target 'LczCards_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
