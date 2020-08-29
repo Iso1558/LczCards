@@ -1,0 +1,16 @@
+PODS:
+  - LczCards (0.1.0)
+
+DEPENDENCIES:
+  - LczCards (from `../`)
+
+EXTERNAL SOURCES:
+  LczCards:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LczCards: c7c3f74e68db9f91abf8f8a254364ed8b3804b5e
+
+PODFILE CHECKSUM: 6354a77a96ed29fe114fa918c2270cbd5a764c32
+
+COCOAPODS: 1.10.0.beta.2
