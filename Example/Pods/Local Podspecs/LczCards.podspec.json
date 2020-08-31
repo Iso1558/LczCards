@@ -1,8 +1,8 @@
 {
   "name": "LczCards",
-  "version": "0.1.0",
+  "version": "0.0.3",
   "summary": "这是一个组件化测试文件",
-  "description": "TODO: Add long description of the pod here.",
+  "description": "学习组件化，如何把自己的代码上传到GitHub上进行管理",
   "homepage": "https://github.com/Iso1558/LczCards",
   "license": {
     "type": "MIT",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/Iso1558/LczCards.git",
-    "tag": "0.1.0"
+    "tag": "0.0.3"
   },
   "platforms": {
     "ios": "8.0"

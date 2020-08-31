@@ -1,5 +1,5 @@
 PODS:
-  - LczCards (0.1.0)
+  - LczCards (0.0.3)
 
 DEPENDENCIES:
   - LczCards (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LczCards: c7c3f74e68db9f91abf8f8a254364ed8b3804b5e
+  LczCards: 165eb72363191c8299d78399a0e9a8cece95fae0
 
 PODFILE CHECKSUM: 6354a77a96ed29fe114fa918c2270cbd5a764c32
 
